@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 web/
+web: composer create-project aheinze/cockpit cockpit --stability="dev"
